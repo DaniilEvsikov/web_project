@@ -1,0 +1,47 @@
+.back{
+  background-color: #B0B096
+}
+.topnav {
+  background-color: #6A655C;
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 15px 16px;
+  text-decoration: none;
+  font-size: 50px;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.topnav a.active {
+  background-color: #575755;
+  color: white;
+}
+dive {
+    background-color: #575755;
+    width: 90%;
+    height: 100%;
+    display: inline-block;
+    margin-top: 10px;
+    padding-left:20px;
+    color: white;
+    font-size: x-large;
+    display: table;
+}
+
+h1{
+    left:0px;
+    font-size: 30px;
+}
+h2{
+    top:10px;
+    font-size: 50px;
+    margin-left:5px;
+}
+img{
+    text-align: center;
+}
